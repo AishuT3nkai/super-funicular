@@ -1,0 +1,1 @@
+export interface SessionUser { id: string; username: string; avatar: string | null; }
